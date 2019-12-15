@@ -3,7 +3,7 @@ All the codes written in Programming Team
 
 ```
 Fall 2019 Programming Team member:
-Jared Blumen
-Gabriella Velazquez
-Liling Yuan
+1. Jared Blumen
+2. Gabriella Velazquez
+3. Liling Yuan
 ```
